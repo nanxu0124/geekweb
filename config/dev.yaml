@@ -1,0 +1,5 @@
+mysql:
+  dsn: root:root@tcp(localhost:13306)/geekweb
+
+Redis:
+  addr: localhost:16379
